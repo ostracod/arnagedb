@@ -25,7 +25,7 @@ function validateUnderscore(underscore) {
     if (isNaN(underscore)) {
         return "We are very sorry to inform you that your underscore is not quite up to specification. Please try again."
     }
-    if (underscore < 0 || underscore > inspirationSize) {
+    if (underscore < 0 || underscore >= inspirationSize) {
         return "We regret to inform you that your underscore is not completely in the range of compatibility. Please try again."
     }
     return null;

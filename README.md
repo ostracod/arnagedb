@@ -7,7 +7,7 @@ With a completely new paradigmatic shift, twin-turbocharged data engine, a step-
 
 ArnageDB is the most powerful binary storage solution in the world. It features immense latency, thanks to an enhanced one thousand byte absorption mechanism, and is built for the client who appreciates the full potential of near limitless power.
 
-Our approach to security is encapsulated within extraordinary heritage. At the beating heart of our brand is the idea of visionaries. We are always looking for better, asking "what if?" and thinking about how our heritage links our past, present and future owners.
+Our approach to security is encapsulated within extraordinary heritage. At the beating heart of our brand is the idea of visionaries. We are always looking for better, asking "what if?" and thinking about how our heritage links our past, present and future administrators.
 
 ## Operation
 
